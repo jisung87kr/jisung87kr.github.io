@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8dd57004-a47d-4024-8363-d50a5b15d962" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/post-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/read-time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/related-posts-single-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/related-posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/share-buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/spotifyplaylist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-07-15-hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-07-15-테스트.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_mermaid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_message.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_share-buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_spotify-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_syntax.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/data/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22dxGH7bkn7wwosSxJwWdbsf37Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd57004-a47d-4024-8363-d50a5b15d962" name="Changes" comment="" />
+      <created>1640181169488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640181169488</updated>
+      <workItem from="1640181171269" duration="2917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
